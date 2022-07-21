@@ -1,0 +1,12 @@
+#any file or directory
+#in this directory or any subdirectory will be ignored
+.idea/
+.gradle/
+build/
+
+*.iml
+#* is wldcard : all files in this directry and
+#any subdirectories named .iml
+
+.DS_Store
+#on osx used to keep track of files
